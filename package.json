@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MikeHC1989/code.git"
+  },
+  "author": "Mike C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeHC1989/code/issues"
+  },
+  "homepage": "https://github.com/MikeHC1989/code#readme"
+}
